@@ -1,4 +1,4 @@
-# Título do Projeto: Tic Tec Toe - Minimax**  
+# Título do Projeto: Tic Tec Toe - Minimax 🎮✨
 
 O *Tic Tec Toe* é um jogo da velha desenvolvido utilizando o conceito de busca competitiva *Minimax*. 
 Implementado em Python, o projeto oferece uma experiência desafiadora, onde o jogador pode competir contra uma inteligência artificial estratégica, que sempre busca a jogada ótima.
